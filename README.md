@@ -50,5 +50,7 @@ The code then visualizes the image pairs along with their labels and the calcula
 
 ## Results
 
+![image](https://github.com/Satyapalsinh10/Siamese_CNN_for_Digit_Comparison/assets/125583562/08b4be4b-af26-4820-b93c-d09131180e67)
+
 
 
