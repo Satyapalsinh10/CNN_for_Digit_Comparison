@@ -1,6 +1,6 @@
 # Siamese-CNN Network for Digit Recognition
 
-This code implements a Siamese Convolutional Neural Network (CNN) in PyTorch for digit recognition using the MNIST dataset. The network takes two images of digits as input and outputs 1 if both images correspond to the same digit and 0 otherwise. Only 10% of the MNIST training dataset and 10% of the test dataset are used for training and testing, respectively.
+This code implements a Siamese Convolutional Neural Network (CNN) in PyTorch for digit recognition using the MNIST dataset. The network takes two images of digits as input and outputs 1 if both images correspond to the same digit and 0 otherwise. Only 10% of the MNIST training dataset and 10% of the test dataset are used for training and testing, respectively. Find the dataset in the Data folder `trainMNIST.csv`
 
 ## Architecture
 
